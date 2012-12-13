@@ -1,4 +1,4 @@
-tinydb
+tdb
 ======
 
-TinyDB project - an Small but efficient database
+an tiny but efficient database
